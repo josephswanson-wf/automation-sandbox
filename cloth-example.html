@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Intern tutorial</title>
+        <link rel="stylesheet" href="app/cloth.css">
+	</head>
+	<body>
+		<canvas id="c"></canvas>
+		<script>
+			var dojoConfig = {
+				packages: [ {
+					name: 'app',
+					location: location.pathname.replace(/[^\/]*$/, 'app')
+				} ]
+			};
+		</script>
+        <script src="app/cloth.js"></script>
+		<script>
+			document.body.className += ' loaded';
+		</script>
+	</body>
+</html>
