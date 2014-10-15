@@ -1,5 +1,5 @@
 {
-  "name": "intern-tutorial",
+  "name": "intern-sandbox",
   "devDependencies": {
     "intern": "^2.1.1",
     "appium": "^1.2.4",

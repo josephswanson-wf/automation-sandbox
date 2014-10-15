@@ -4,9 +4,9 @@
 
 * [Set up a free Sauce Labs account.](https://saucelabs.com/signup/plan/free)
 * Add your Sauce Labs username as system variable `SAUCE_USERNAME`
-* Add your Sauce Labs account access key as system variable `SAUCE_ACCESS_KEY`.  This can be found on your Sauce Labs account page at the bottom of the leftmost container. 
+* Add your Sauce Labs account access key as system variable `SAUCE_ACCESS_KEY`.  This can be found on your Sauce Labs account page at the bottom of the leftmost container.
 
-![](/intern-tutorial/docs/access_key.png)
+![](/intern-sandbox/docs/access_key.png)
 
 **Project Setup**
 
