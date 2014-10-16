@@ -1,4 +1,6 @@
-# Getting Started
+A playground for http://theintern.io/ and https://github.com/Workiva/autoPaw
+
+# Getting Started with Intern
 
 **Account Setup:**
 
